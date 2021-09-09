@@ -1,0 +1,34 @@
+name: briflynews
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  get:
+  line_icons:
+  get_storage:
+  cached_network_image:
+  url_launcher:
+  flutter_launcher_icons:
+  google_fonts:
+  dio:
+  card_swiper:
+  sqflite:
+  uuid:
+  path_provider:
+  webview_flutter:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,10 @@
+export 'splash_controller.dart';
+export 'bottom_tab_controller.dart';
+export 'home_controller.dart';
+export 'feeds_controller.dart';
+export 'news_detail_controller.dart';
+export 'category_controller.dart';
+export 'category_detail_controller.dart';
+export 'search_controller.dart';
+export 'search_detail_controller.dart';
+export 'profile_controller.dart';
