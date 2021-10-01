@@ -1,16 +1,33 @@
-# briflynews
+# briflynews flutter application
 
-A new Flutter project.
+<h3 align="center">
+    <br> 
+    Brifly is a shot news app that selects the most recent and important news from multiple trusted news portals and summarises it in 70 words or less multiple regional langugaes, 
+    including English amd Hindi to ensure you stay up to date with what's going on in the world during your busy day.
+</h3>
 
-## Getting Started
+# Website
+**www.fluttertutorial.in provides free UI Kit**
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img alt="" src="screenshot\brifly_news_1.png" width="180"/>
+  <img alt="" src="screenshot\brifly_news_2.png" width="180"/>
+  <img alt="" src="screenshot\brifly_news_3.png" width="180"/>
+  <img alt="" src="screenshot\brifly_news_4.png" width="180"/>
+  <img alt="" src="screenshot\brifly_news_5.png" width="180"/>
 
-A few resources to get you started if this is your first Flutter project:
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# APPLICATION FUNCTIONALITY
+<h6>
+    <br>
+    APPLICATION FUNCTIONALITY <br>
+    1) Change language <br>
+    2) Change the theme <br>
+    3) GetX service use <br>
+    4) Flutter 2.5.1 support <br>
+    5) Easy to services are search <br>
+    6) Support languages are English, Spanish and Arabic. 
+</h6>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
