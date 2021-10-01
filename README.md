@@ -1,4 +1,4 @@
-# briflynews flutter application
+# brifly news flutter application
 
 <h3 align="center">
     <br> 
@@ -15,7 +15,6 @@
   <img alt="" src="screenshot\brifly_news_3.png" width="180"/>
   <img alt="" src="screenshot\brifly_news_4.png" width="180"/>
   <img alt="" src="screenshot\brifly_news_5.png" width="180"/>
-
 </p>
 
 # APPLICATION FUNCTIONALITY
