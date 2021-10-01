@@ -22,11 +22,9 @@
     <br>
     APPLICATION FUNCTIONALITY <br>
     1) Change language <br>
-    2) Change the theme <br>
-    3) GetX service use <br>
-    4) Flutter 2.5.1 support <br>
-    5) Easy to services are search <br>
-    6) Support languages are English, Spanish and Arabic. 
+    2) GetX use <br>
+    3) Bookmark news <br>
+    4) Read and unread news find<br>
 </h6>
 
 
